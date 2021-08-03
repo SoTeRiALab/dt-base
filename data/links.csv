@@ -1,0 +1,80 @@
+l4,con,tp,UNIFORM,.660,.900,UNIFORM,0.9,0.99,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,j3
+l5,con,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a medium likelihood relationship between the two nodes,I am likely confident with this concept,j2
+l6,con,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,very likely positive relationship between two nodes,I am likely confident with this concept,j1
+l2,cstp,olo,UNIFORM,.991,.999,UNIFORM,0.66,0.9,Definition provided is used to verify compliance with federal regulations,I am likely confident with this concept,gr9
+l1,cstp,olo,UNIFORM,.900,.990,UNIFORM,0.66,0.9,"The definition is conditional on OJT, therefore the weight of influence for the generic definition is medium likelihood",I am likely confident with this concept,gr13
+l3,cstp,olo,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Document provides definition of Objectives and components are conditions and standards,I am likely confident with this concept,id1
+l14,ik,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,id2
+l15,ik,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,id2
+l13,ik,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,id2
+l20,ip,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a relationship that has a medium likelihood between the two nodes,I am likely confident with this concept,gd1
+l21,ip,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,i am likely confident with this concept,j10
+l19,ip,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gr5
+l9,ipt,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a virtually certain relationship between the two nodes,I am likely confident with this concept,gd1
+l7,ipt,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gd1
+l8,ipt,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a virtually certain relationship between the two nodes,I am likely confident with this concept,gd1
+l11,it,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,j5
+l10,it,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,gr11
+l12,it,ip,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gd1
+l16,itech,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this general definition provides a medium level of support for this causality,I am likely confident with this concept,gr2
+l17,itech,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this document describes the itech input into pd providing a likely causality,I am likely confident with this concept,gr12
+l18,itech,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this document likely supports this causal relationship,I am likely confident with this concept,j6
+l28,jta,ksa,UNIFORM,.600,.960,UNIFORM,0.991,0.999,"Should be"" Job analysis supports new training and as part of the training updating process""",I am likely confident with this concept,j9
+l24,jta,olo,UNIFORM,.600,.960,UNIFORM,0.991,0.999,Evidence has a medium likelihood of support which does not specify the connection between LTO and JA,I am likely confident with this concept,j8
+l23,jta,olo,UNIFORM,.600,.960,UNIFORM,0.6,0.96,"The support is indirect, indicating a medium likelihood for the causality",I am likely confident with this concept,j7
+l27,jta,olo,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Process flows show direct connection of Job analysis to KSA,I am likely confident with this concept,gr2
+l26,jta,ksa,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Very likely -  the result of JA 'will be' set of tasks representing training con - KSA can be derived from.,I am likely confident with this concept,gr2
+l22,jta,ksa,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Industry document describes jta as an input to KSA,I am likely confident with this concept,gr2
+l25,jta,ksa,UNIFORM,.600,.960,UNIFORM,0.991,0.999,Job analysis identifying attributes are paramount for performance,I am likely confident with this concept,gr2
+l31,ksa,tna,UNIFORM,.900,.990,UNIFORM,0.6,0.96,this paper identifies one type of TNA (org analysis) that states that KSA is an input to the TNA,I am very likely confident in this topic,gr3
+l30,ksa,tna,UNIFORM,.600,.960,UNIFORM,0.6,0.96,virtually certain evidence that KSA is an input to TNA,I am likely confident with this concept,j10
+l29,ksa,tna,UNIFORM,.600,.960,UNIFORM,0.6,0.96,broad definition that likely provides evidence for this causal relationship,I am likely confident with this concept,b1
+l32,med,tp,UNIFORM,.900,.990,UNIFORM,0.6,0.96,medium likelihood of a relationship between the two nodes,I am very likely confident about the topic of training med,id3
+l34,med,tp,UNIFORM,.900,.990,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am very likely confident about the topic of training med,j11
+l33,med,tp,UNIFORM,.900,.990,UNIFORM,0.991,0.999,this evidence provides support for a medium likelihood for a relationship between the two nodes,I am very likely confident about the topic of training med,gr4
+l36,meth,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,meta-analysis results show that training meth had influence on medium effect size of training in comparison to trainee results which can be associated with implementation,I am likely confident with this concept,gr5
+l35,meth,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,a positive correlation indicates that training meth may play a role in the implementation of training that affects performance,I am likely confident with this concept,id4
+l37,meth,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this document provides generic support for meths contributing to t1 quality,I am likely confident with this concept,id4
+l40,olo,tna,UNIFORM,.900,.990,UNIFORM,0.6,0.96,This evidence indicates that training objectives are identified in during TNA which includes objectives,I am very likely confident in this topic,gr5
+l39,olo,tna,UNIFORM,.600,.960,UNIFORM,0.6,0.96,definitional aspect indicates that olo are an input for TNA,I am likely confident with this concept,gr5
+l38,olo,tna,UNIFORM,.600,.960,UNIFORM,0.6,0.96,generic support for this concept it has medium likelihood of supporting this relationship,I am likely confident with this concept,gr5
+l46,pd,str,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,j16
+l53,pd,med,UNIFORM,.900,.990,UNIFORM,0.6,0.96,this evidence supports a virtually certain relationship between the two nodes,I am very likely confident about the topic of training med,j16
+l47,pd,con,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,j16
+l54,pd,med,UNIFORM,.900,.990,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am very likely confident about the topic of training med,j16
+l49,pd,med,UNIFORM,.900,.990,UNIFORM,0.6,0.96,this evidence refers to probable necessity to use different meths indicating a medium likelihood relationship between the two nodes,I am very likely confident about the topic of training med,j15
+l44,pd,str,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,j14
+l42,pd,meth,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,b2
+l50,pd,set,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Evidence indicates that set is likely important in design for different training outcomes,I am likely confident with this concept,j13
+l57,pd,seq,UNIFORM,.600,.960,UNIFORM,0.991,0.999,this document indicates that it is virtually certain that training seq will be an outcome of training design,I am likely confident with this concept,j12
+l58,pd,con,UNIFORM,.600,.960,UNIFORM,0.991,0.999,this document indicates that it is very likely that instructors design quality will influence training con,I am likely confident with this concept,gr7
+l48,pd,con,UNIFORM,.600,.960,UNIFORM,0.991,0.999,indicates a review committee responsible for determining training con,I am likely confident with this concept,gr6
+l56,pd,seq,UNIFORM,.600,.960,UNIFORM,0.991,0.999,this document provides generic support that the sequencing of training materials are very likely part of training design,I am likely confident with this concept,gr6
+l55,pd,seq,UNIFORM,.600,.960,UNIFORM,0.6,0.96,it is very likely that seq is a generally understood outcome of training design,I am likely confident with this concept,gr6
+l45,pd,str,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,is1
+l43,pd,meth,UNIFORM,.600,.960,UNIFORM,0.6,0.96,virtually certain relationship between these two nodes,I am likely confident with this concept,gr5
+l51,pd,set,UNIFORM,.600,.960,UNIFORM,0.6,0.96,industry document states definition on causal relationship this evidence supports a virtually certain relationship between the two nodes,I am likely confident with this concept,gr5
+l52,pd,set,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gr5
+l41,pd,meth,UNIFORM,.600,.960,UNIFORM,0.991,0.999,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,gr5
+l60,rms,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,TRDS is an essential part of the program. This document provides several detailed instances of support,I am likely confident with this concept,j19
+l59,rms,pd,UNIFORM,.900,.990,UNIFORM,0.6,0.96,"This document discusses the str and benefits of a TRDS, the language is ubiquitous, making it very likely to contribute to program development.",I am very likely confident on this topic,j18
+l61,rms,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,This paper discusses using operational experience as an input to the design of training - this feedback can be considered in the form of a rms,I am likely confident with this concept,j17
+l64,rpa,rms,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,j22
+l62,rpa,rms,UNIFORM,.600,.960,UNIFORM,0.6,0.96,virtually certain that training records must be kept and evaluated,I am likely confident with this concept,j21
+l63,rpa,rms,UNIFORM,.600,.960,UNIFORM,0.6,0.96,it is virtually certain that companies will keep training records,I am likely confident with this concept,j20
+l65,seq,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,b4
+l67,seq,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,b3
+l66,seq,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a virtually certain relationship between the two nodes,I am likely confident with this concept,r1
+l71,set,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gr10
+l69,set,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides virtually certain evidence that training set influences tp effectiveness,I am likely confident with this concept,j23
+l70,set,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,Evidence indicates that training set very likely influences the quality of tp given different learning objectives,I am likely confident with this concept,j23
+l68,set,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,b4
+l73,str,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a very likely relationship between the two nodes,I am likely confident with this concept,gr9
+l72,str,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a virtually certain relationship between the two nodes,I am likely confident with this concept,gr10
+l74,str,tp,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence supports a virtually certain relationship between the two nodes,I am likely confident with this concept,gr10
+l76,tna,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,most important step indicates virtually certain causality,I am likely confident with this concept,gr9
+l75,tna,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,the concept is definitional and supported by multiple references it is very likely this relationship is confirmed,I am likely confident with this concept,gr9
+l77,tna,pd,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this document says that training needs need to be incorporated into pd,I am likely confident with this concept,gr9
+l79,tp,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a virtually certain relationship between the two nodes,I am likely confident with this concept,j24
+l80,tp,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,gr12
+l78,tp,ti,UNIFORM,.600,.960,UNIFORM,0.6,0.96,this evidence provides support for a likely relationship between the two nodes,I am likely confident with this concept,gr12
