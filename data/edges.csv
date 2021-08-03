@@ -1,0 +1,18 @@
+edge_id,parent_id,child_id,ref_id,m2Type,m2A,m2B,m2Memo,m3Type,m3A,m3B,m3Memo
+l01,con,tp,r01,UNIFORM,0.9,0.99,this evidence provides support for a very likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l02,con,tp,r02,UNIFORM,0.991,0.999,this evidence provides support for a medium likelihood relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l03,con,tp,r03,UNIFORM,0.9,0.99,very likely positive relationship between two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l07,ik,ip,r07,UNIFORM,0.66,0.9,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l08,ik,ip,r08,UNIFORM,0.9,0.99,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l09,ik,ip,r09,UNIFORM,0.9,0.99,this evidence provides support for a very likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l10,ip,tq,r07,UNIFORM,0.66,0.9,this evidence provides support for a very likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l11,ip,tq,r45,UNIFORM,0.991,0.999,this evidence provides support for a relationship that has a medium likelihood between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l12,ip,tq,r44,UNIFORM,0.9,0.99,this evidence provides support for a very likely relationship between the two nodes,UNIFORM,0.66,0.9,i am likely confident with this concept
+l19,it,ip,r45,UNIFORM,0.66,0.9,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l20,it,ip,r05,UNIFORM,0.66,0.9,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l21,it,ip,r12,UNIFORM,0.9,0.99,this evidence provides support for a very likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l35,met,tp,r24,UNIFORM,0.9,0.99,a positive correlation indicates that training met may play a role in the implementation of training that affects performance,UNIFORM,0.66,0.9,I am likely confident with this concept
+l36,met,tp,r25,UNIFORM,0.9,0.99,meta-analysis results show that training met had influence on medium effect size of training in comparison to trainee results which can be associated with implementation,UNIFORM,0.66,0.9,I am likely confident with this concept
+l78,tp,tq,r04,UNIFORM,0.66,0.9,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l79,tp,tq,r32,UNIFORM,0.991,0.999,this evidence provides support for a virtually certain relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
+l80,tp,tq,r43,UNIFORM,0.66,0.9,this evidence provides support for a likely relationship between the two nodes,UNIFORM,0.66,0.9,I am likely confident with this concept
